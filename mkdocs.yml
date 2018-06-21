@@ -1,4 +1,20 @@
 site_name: Bitprim
+site_url: http://www.bitprim.org
+site_description: Bitprim
+site_author: Bitprim Team
+
+repo_url: https://github.com/mkdocs/mkdocs/
+edit_uri: ""
+
 pages:
     - Home: index.md
-    - About: team.md
+    - User Guide:
+        - Installation: docs/Installation.md
+    - About:
+        - Team: Team.md
+        
+
+copyright: Copyright &copy; 2018 Bitprim
+
+plugins:
+    - search    
