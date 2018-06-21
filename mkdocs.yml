@@ -18,12 +18,9 @@ pages:
         - Real Consensus: Real-consensus.md
         - RPC: RPC-Support.md
     - Developer Guide:
-        - .Net: .Net-Interface.md
-            - Reference: Dotnet-interface-details.md
-        - C:
-        - C++:
-        - Go:
-        - Python:    
+        - .Net: 
+            - Introduction: .Net-Interface.md
+            - Reference: Dotnet-interface-details.md    
     - About:
         - Team: Team.md
         
