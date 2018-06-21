@@ -10,6 +10,20 @@ pages:
     - Home: index.md
     - User Guide:
         - Installation: Installation.md
+        - Extensions Blocks: Extension-blocks.md
+        - LBNet: LBNet.md
+        - Mining Engine: Mining-engine.md
+        - Modules Messaging: Modules-messaging.md
+        - Sql: Primitive-sql.md
+        - Real Consensus: Real-consensus.md
+        - RPC: RPC-Support.md
+    - Developer Guide:
+        - .Net: .Net-Interface.md
+            - Reference: Dotnet-interface-details.md
+        - C:
+        - C++:
+        - Go:
+        - Python:    
     - About:
         - Team: Team.md
         
