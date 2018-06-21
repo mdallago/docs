@@ -9,7 +9,7 @@ edit_uri: ""
 pages:
     - Home: index.md
     - User Guide:
-        - Installation: docs/Installation.md
+        - Installation: Installation.md
     - About:
         - Team: Team.md
         
