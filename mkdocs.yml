@@ -13,7 +13,7 @@ pages:
         - Getting Started: blank.md
         - Installation: Installation.md
         - FAQ: blank.md
-        - Release Notes:blank.md 
+        - Release Notes: blank.md 
     - Developer Guide:
         - Introduction: blank.md
         - Tutorials: blank.md
