@@ -9,22 +9,25 @@ edit_uri: ""
 pages:
     - Home: index.md
     - User Guide:
+        - Introduction:  
+        - Getting Started: 
         - Installation: Installation.md
-        - Extensions Blocks: Extension-blocks.md
-        - LBNet: LBNet.md
-        - Mining Engine: Mining-engine.md
-        - Modules Messaging: Modules-messaging.md
-        - Sql: Primitive-sql.md
-        - Real Consensus: Real-consensus.md
-        - RPC: RPC-Support.md
+        - FAQ: 
+        - Release Notes: 
     - Developer Guide:
+        - Introduction: 
+        - Tutorials: 
         - .Net: 
             - Introduction: .Net-Interface.md
-            - Reference: Dotnet-interface-details.md    
+            - Reference: Dotnet-interface-details.md
+        - C:
+        - C++:
+        - Python:
+        - Go:
+        - Javascript:    
     - About:
         - Team: Team.md
         
-
 copyright: Copyright &copy; 2018 Bitprim
 
 plugins:

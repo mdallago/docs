@@ -1,6 +1,6 @@
 ##### ![Bitprim](assets/bitprim_logo_orange.png)
 
-##### "Bringing Bitcoin Cash to everyday life"
+##### "Bringing decentralized solutions to everyday life"
 
 ##### 
 
