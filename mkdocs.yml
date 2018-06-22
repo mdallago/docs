@@ -9,22 +9,22 @@ edit_uri: ""
 pages:
     - Home: index.md
     - User Guide:
-        - Introduction:  
-        - Getting Started: 
+        - Introduction: blank.md 
+        - Getting Started: blank.md
         - Installation: Installation.md
-        - FAQ: 
-        - Release Notes: 
+        - FAQ: blank.md
+        - Release Notes:blank.md 
     - Developer Guide:
-        - Introduction: 
-        - Tutorials: 
+        - Introduction: blank.md
+        - Tutorials: blank.md
         - .Net: 
             - Introduction: .Net-Interface.md
             - Reference: Dotnet-interface-details.md
-        - C:
-        - C++:
-        - Python:
-        - Go:
-        - Javascript:    
+        - C: blank.md
+        - C++: blank.md
+        - Python: blank.md
+        - Go: blank.md
+        - Javascript: blank.md   
     - About:
         - Team: Team.md
         
