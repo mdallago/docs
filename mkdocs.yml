@@ -24,7 +24,8 @@ pages:
         - Python: blank.md
         - Go: blank.md
         - Javascript: blank.md   
-    
+    - About:
+        - Team: team.md
         
 copyright: Copyright &copy; 2018 Bitprim
 
