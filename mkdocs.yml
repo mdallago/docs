@@ -10,10 +10,8 @@ pages:
     - Home: index.md
     - User Guide:
         - Introduction: user_guide/introduction.md 
-        - Getting Started: blank.md
-        - Installation: Installation.md
-        - FAQ: blank.md
-        - Release Notes: blank.md 
+        - Installation: user_guide/Installation.md
+        - Release Notes: user_guide/releases_notes.md 
     - Developer Guide:
         - Introduction: blank.md
         - Tutorials: blank.md
