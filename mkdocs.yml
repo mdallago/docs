@@ -11,20 +11,21 @@ pages:
     - User Guide:
         - Introduction: user_guide/introduction.md 
         - Installation: user_guide/installation.md
+        - RPC: user_guide/rpc.md
         - Release Notes: user_guide/releases_notes.md 
     - Developer Guide:
         - Introduction: blank.md
         - Tutorials: blank.md
         - .Net: 
-            - Introduction: .Net-Interface.md
-            - Reference: Dotnet-interface-details.md
+            - Introduction: developer_guide/.net/.net-Interface.md
+            - Reference: developer_guide/.net/dotnet-interface-details.md
         - C: blank.md
         - C++: blank.md
         - Python: blank.md
         - Go: blank.md
         - Javascript: blank.md   
     - About:
-        - Team: Team.md
+        - Team: team.md
         
 copyright: Copyright &copy; 2018 Bitprim
 
