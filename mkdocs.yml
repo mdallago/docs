@@ -9,7 +9,7 @@ edit_uri: ""
 pages:
     - Home: index.md
     - User Guide:
-        - Introduction: blank.md 
+        - Introduction: user_guide/introduction.md 
         - Getting Started: blank.md
         - Installation: Installation.md
         - FAQ: blank.md
