@@ -10,7 +10,7 @@ pages:
     - Home: index.md
     - User Guide:
         - Introduction: user_guide/introduction.md 
-        - Installation: user_guide/Installation.md
+        - Installation: user_guide/installation.md
         - Release Notes: user_guide/releases_notes.md 
     - Developer Guide:
         - Introduction: blank.md
