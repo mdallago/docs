@@ -16,8 +16,9 @@ pages:
     - Developer Guide:
         - Introduction: blank.md
         - Tutorials: blank.md
-        - .Net: developer_guide/.net/.net-Interface.md
-            - Reference: developer_guide/.net/dotnet-interface-details.md
+        - .Net: 
+            - Introduction: developer_guide/dotnet/dotnet-Interface.md
+            - Reference: developer_guide/donet/dotnet-interface-details.md
         - C: blank.md
         - C++: blank.md
         - Python: blank.md
