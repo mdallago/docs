@@ -14,16 +14,20 @@ pages:
         - RPC: user_guide/rpc.md
         - Release Notes: user_guide/releases_notes.md 
     - Developer Guide:
-        - Introduction: blank.md
-        - Tutorials: blank.md
+        - Introduction: developer_guide/introduction.md
         - .Net: 
             - Introduction: developer_guide/dotnet/dotnet-Interface.md
             - Reference: developer_guide/dotnet/dotnet-interface-details.md
-        - C: blank.md
-        - C++: blank.md
-        - Python: blank.md
-        - Go: blank.md
-        - Javascript: blank.md   
+        - C:
+            - Introduction: developer_guide/c/C-interface.md
+            - Reference: developer_guide/c/api.md
+        - C++: 
+            - Introduction: developer_guide/c++/C---interface.md
+        - Python: 
+            - Introduction: developer_guide/python/Python-interface.md
+            - Reference: developer_guide/python/Python-interface-details.md
+        - Go:
+            - Introduction: developer_guide/go/Go-interface.md
     - About:
         - Team: team.md
         
