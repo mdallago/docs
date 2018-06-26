@@ -1,4 +1,4 @@
-## Developer Guide
+## Introduction
 
 *Bitprim* works as a cryptocurrency development platform with several programmable APIs:
 
